@@ -1,4 +1,3 @@
 # Git-Tutorial
-<br>
-Welcome to Tutorial Phase
+Welcome to Tutorial Phase<br>
 Here I add something which will be helpful in future
